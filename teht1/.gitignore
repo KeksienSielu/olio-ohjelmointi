@@ -1,7 +1,5 @@
 # This file is used to ignore files which are generated
 # ----------------------------------------------------------------------------
-teht1/build/
-teht1/*.user
 *~
 *.autosave
 *.a

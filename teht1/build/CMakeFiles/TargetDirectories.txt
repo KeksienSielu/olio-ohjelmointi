@@ -1,7 +1,0 @@
-C:/Users/kosti/Documents/olio-ohjelmointi/teht1/untitled1/build/CMakeFiles/untitled1.dir
-C:/Users/kosti/Documents/olio-ohjelmointi/teht1/untitled1/build/CMakeFiles/edit_cache.dir
-C:/Users/kosti/Documents/olio-ohjelmointi/teht1/untitled1/build/CMakeFiles/rebuild_cache.dir
-C:/Users/kosti/Documents/olio-ohjelmointi/teht1/untitled1/build/CMakeFiles/list_install_components.dir
-C:/Users/kosti/Documents/olio-ohjelmointi/teht1/untitled1/build/CMakeFiles/install.dir
-C:/Users/kosti/Documents/olio-ohjelmointi/teht1/untitled1/build/CMakeFiles/install/local.dir
-C:/Users/kosti/Documents/olio-ohjelmointi/teht1/untitled1/build/CMakeFiles/install/strip.dir

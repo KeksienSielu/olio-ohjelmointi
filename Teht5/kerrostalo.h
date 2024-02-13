@@ -1,21 +1,15 @@
 #ifndef KERROSTALO_H
 #define KERROSTALO_H
 
-#include "katutaso.h"
-#include "kerros.h"
-
-
-
 class kerrostalo
 {
 public:
     kerrostalo();
     double laskeKulutus();
     double getkerrosTaloKulutus() const { return kerrosTaloKulutus; }
+    void maaritaKerrostalo();
 
 private:
-    katutaso eka;
-    kerros toka, kolmas;
     double kerrosTaloKulutus;
 };
 

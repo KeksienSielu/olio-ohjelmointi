@@ -1,8 +1,6 @@
 #ifndef KATUTASO_H
 #define KATUTASO_H
 
-#include "asunto.h"
-
 class katutaso
 {
 public:
@@ -12,7 +10,6 @@ public:
     double getKatuTasoKulutus() const { return katuTasoKulutus; }
 
 private:
-    Asunto as1, as2;
     double katuTasoKulutus;
 };
 
